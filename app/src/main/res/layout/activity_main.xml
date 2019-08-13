@@ -19,7 +19,8 @@
             <ImageView
                     android:src="@drawable/abstract_abstract_expressionism_art_2505693"
                     android:id="@+id/left_child_image"
-                    style="@style/ImageViews"/>
+                    style="@style/ImageViews"
+                    android:contentDescription="@string/abstract_expressionism_art"/>
 
         </LinearLayout>
 
@@ -30,7 +31,8 @@
             <ImageView
                     android:src="@drawable/afterglow_beach_cliff_2555285"
                     android:id="@+id/right_child_image"
-                    style="@style/ImageViews"/>
+                    style="@style/ImageViews"
+                    android:contentDescription="@string/afterglow_beach_cliff"/>
 
         </LinearLayout>
 
